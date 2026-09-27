@@ -1,6 +1,6 @@
 [gd_resource type="SpriteFrames" format=3 uid="uid://dykn1p3mphufl"]
 
-[ext_resource type="Texture2D" uid="uid://cv70djryjnnfd" path="res://graphics/Sophie.png" id="1_8jkjj"]
+[ext_resource type="Texture2D" uid="uid://cv70djryjnnfd" path="res://graphics/Player.png" id="1_8jkjj"]
 
 [resource]
 animations = [{
